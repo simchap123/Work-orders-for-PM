@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Work Order Management",
+  "description": "A sleek, modern work order management application for property management, inspired by Apple and Uber's design principles. It features role-based access control, a full work order lifecycle, and responsive UIs tailored for both desktop (admins) and mobile (technicians).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
